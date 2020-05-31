@@ -1,3 +1,6 @@
+# sentiment analysis
+# by: Mohsin Uddin
+
 library(tuber)
 library(syuzhet)
 library(ggplot2)
